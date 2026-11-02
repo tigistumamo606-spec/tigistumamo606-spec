@@ -1,6 +1,6 @@
 # Hi, I'm Tigistu Mamo 👋
 
-- 💻 **Front-End Web Developer & IT Student** specializing in responsive web applications.
+- 💻 **Front-End Web Developer &** specializing in responsive web applications.
 - 🌱 Currently expanding my skills in **JavaScript logic** and **backend development**.
 - 🛠️ **Core Technologies:** HTML5, CSS3, JavaScript, Git & GitHub.
 - 📱 Developing and deploying projects using efficient mobile workflows.
