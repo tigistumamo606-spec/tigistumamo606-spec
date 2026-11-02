@@ -1,16 +1,44 @@
-## Hi there 👋
+👋 Hi, I'm Tigistu Mamo
 
-<!--
-**tigistumamo606-spec/tigistumamo606-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Beginner Web Developer | Frontend Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm learning web development and building modern, responsive websites using HTML, CSS, and JavaScript.
+
+🚀 My Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+- Git and GitHub
+
+🌟 My Projects
+
+1. TechZone Electronics Shop
+
+- Electronic shopping website.
+- Product display and shopping cart.
+
+2. Smart Calculator
+
+- Interactive calculator.
+- JavaScript functionality.
+
+3. Advanced To-Do List
+
+- Task management application.
+- Add and manage daily tasks.
+
+🌐 My Portfolio
+
+"Visit My Portfolio" (https://tigistumamo606-spec.github.io/my-portfolio/)
+
+🎯 My Goal
+
+To become a professional web developer and work with clients around the world.
+
+📫 Contact
+
+Feel free to connect with me through GitHub!
