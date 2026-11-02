@@ -18,6 +18,6 @@
 
 | Project Name | Description | Tech Stack | Repository / Demo |
 | :--- | :--- | :--- | :--- |
-| **Electronics E-Commerce Shop** | Modern, responsive web shop featuring interactive product cards, layout structures, and shopping interface. | HTML5, CSS3, JS | [View Project](https://github.com/tigistumamo606-spec) |
-| **Smart Calculator** | Interactive web app for standard mathematical operations with clean user UI and logic handling. | HTML5, CSS3, JS | [View Project](https://github.com/tigistumamo606-spec) |
-| **To-Do List App** | Task management application enabling dynamic task creation, status updates, and interactive features. | HTML5, CSS3, JS | [View Project](https://github.com/tigistumamo606-spec) |
+| **Electronics E-Commerce Shop** | Modern, responsive web shop featuring interactive product cards, layout structures, and shopping interface. | HTML5, CSS3, JS | [View Project](Electronics.html) |
+| **Smart Calculator** | Interactive web app for standard mathematical operations with clean user UI and logic handling. | HTML5, CSS3, JS | [View Project](Calculator.html) |
+| **To-Do List App** | Task management application enabling dynamic task creation, status updates, and interactive features. | HTML5, CSS3, JS | [View Project](To-do-list.html) |
