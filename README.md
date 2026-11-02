@@ -1,44 +1,24 @@
-👋 Hi, I'm Tigistu Mamo
+# Hi, I'm Tigistu Mamo 👋
 
-💻 Beginner Web Developer | Frontend Developer
+- 💻 **Front-End Web Developer & IT Student** specializing in responsive web applications.
+- 🌱 Currently expanding my skills in **JavaScript logic** and **backend development**.
+- 🛠️ **Core Technologies:** HTML5, CSS3, JavaScript, Git & GitHub.
+- 📱 Developing and deploying projects using efficient mobile workflows.
 
-Welcome to my GitHub profile!
+### ⚡ Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-I'm learning web development and building modern, responsive websites using HTML, CSS, and JavaScript.
+---
 
-🚀 My Skills
+### 📂 Featured Projects
 
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Web Design
-- Git and GitHub
+| Project Name | Description | Tech Stack | Repository / Demo |
+| :--- | :--- | :--- | :--- |
+| **Electronics E-Commerce Shop** | Modern, responsive web shop featuring interactive product cards, layout structures, and shopping interface. | HTML5, CSS3, JS | [View Project](https://github.com/tigistumamo606-spec) |
+| **Smart Calculator** | Interactive web app for standard mathematical operations with clean user UI and logic handling. | HTML5, CSS3, JS | [View Project](https://github.com/tigistumamo606-spec) |
+| **To-Do List App** | Task management application enabling dynamic task creation, status updates, and interactive features. | HTML5, CSS3, JS | [View Project](https://github.com/tigistumamo606-spec) |
 
-🌟 My Projects
-
-1. TechZone Electronics Shop
-
-- Electronic shopping website.
-- Product display and shopping cart.
-
-2. Smart Calculator
-
-- Interactive calculator.
-- JavaScript functionality.
-
-3. Advanced To-Do List
-
-- Task management application.
-- Add and manage daily tasks.
-
-🌐 My Portfolio
-
-"Visit My Portfolio" (https://tigistumamo606-spec.github.io/my-portfolio/)
-
-🎯 My Goal
-
-To become a professional web developer and work with clients around the world.
-
-📫 Contact
-
-Feel free to connect with me through GitHub!
